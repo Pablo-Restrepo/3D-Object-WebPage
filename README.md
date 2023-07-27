@@ -22,7 +22,7 @@ The project is a simple web application that allows users to view a 3D model on 
    git clone https://github.com/Pablo736/3D-Object-WebPage.git
 ```
 
-2. Open the `index.html` file in your web browser.
+2. Open the `index.html` with Live Server (or local development server).
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See the `LICENSE` file for more details.
