@@ -60,7 +60,7 @@
             scene.add(light4);
 
             const loader = new THREE.GLTFLoader();
-            loader.load('scene.gltf', function (gltf) {
+            loader.load('Object/scene.gltf', function (gltf) {
                 const object = gltf.scene.children[0];
                 object.scale.set(50, 50, 50);
                 scene.add(gltf.scene);
