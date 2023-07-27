@@ -4,3 +4,21 @@ body {
     margin: 0;
     overflow: hidden;
 }
+
+.button-container {
+    position: absolute;
+}
+
+.button-info {
+    background-color: transparent;
+    border: none;
+    color: inherit;
+    font-size: inherit;
+    cursor: pointer;
+    padding: 2px;
+    transition: transform 0.3s ease;
+}
+
+.button-info:hover {
+    transform: scale(1.1);
+}
