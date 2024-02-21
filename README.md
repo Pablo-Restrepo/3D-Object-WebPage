@@ -9,7 +9,7 @@
   <img src="docs/image.png">
 </p>
 
-## Link 👉  https://pablo736.github.io/3D-Object-WebPage/
+## Link 👉  https://Pablo-Restrepo.github.io/3D-Object-WebPage/
 
 ## Description
 The project is a simple web application that allows users to view a 3D model on a web page. It uses the Three.js library to create and render 3D graphics in a browser.
@@ -19,7 +19,7 @@ The project is a simple web application that allows users to view a 3D model on 
 1. Clone the repository to your local machine using the following command:
 
 ```bash
-   git clone https://github.com/Pablo736/3D-Object-WebPage.git
+   git clone https://github.com/Pablo-Restrepo/3D-Object-WebPage.git
 ```
 
 2. Open the `index.html` with Live Server (or local development server).
